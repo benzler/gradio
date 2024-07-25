@@ -1,5 +1,11 @@
 # gradio_client
 
+## 1.2.0-beta.0
+
+### Features
+
+- [#8862](https://github.com/gradio-app/gradio/pull/8862) [`ac132e3`](https://github.com/gradio-app/gradio/commit/ac132e3cbc8dbc7bec3d607d52bef347e90feb41) - Support the use of custom authentication mechanism, timeouts, and other `httpx` parameters in Python Client.  Thanks @valgai!
+
 ## 1.1.1
 
 ### Features

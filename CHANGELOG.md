@@ -1,5 +1,19 @@
 # gradio
 
+## 5.0.0-beta.0
+
+### Features
+
+- [#8862](https://github.com/gradio-app/gradio/pull/8862) [`ac132e3`](https://github.com/gradio-app/gradio/commit/ac132e3cbc8dbc7bec3d607d52bef347e90feb41) - Support the use of custom authentication mechanism, timeouts, and other `httpx` parameters in Python Client.  Thanks @valgai!
+- [#8810](https://github.com/gradio-app/gradio/pull/8810) [`4cf8af9`](https://github.com/gradio-app/gradio/commit/4cf8af9407a44ee914e0be567da38b29f00eff8e) - Prevent invalid values from being submitted to dropdown, etc.  Thanks @abidlabs!
+- [#8797](https://github.com/gradio-app/gradio/pull/8797) [`6e6818c`](https://github.com/gradio-app/gradio/commit/6e6818c3af836051fffdd070a9e33889b246186e) - Deprecate for 5.0.  Thanks @abidlabs!
+- [#8888](https://github.com/gradio-app/gradio/pull/8888) [`70a0c56`](https://github.com/gradio-app/gradio/commit/70a0c5620043ae613af16008f4a683b0f238545d) - Added support for TokenClassificationPipeline.  Thanks @cswamy!
+- [#8867](https://github.com/gradio-app/gradio/pull/8867) [`f8ccb5e`](https://github.com/gradio-app/gradio/commit/f8ccb5e663ed5df010f7a8e93d556bfc238d849d) - Make `update_root_in_config` atomic.  Thanks @abidlabs!
+
+### Fixes
+
+- [#8879](https://github.com/gradio-app/gradio/pull/8879) [`67c08bf`](https://github.com/gradio-app/gradio/commit/67c08bfb9e59d801081591b8a59232c32d4467cf) - Fix file uploading in iOS.  Thanks @hannahblair!
+
 ## 4.39.0
 
 ### Features

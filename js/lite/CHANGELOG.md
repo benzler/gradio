@@ -1,5 +1,11 @@
 # @gradio/lite
 
+## 4.39.1-beta.0
+
+### Dependency updates
+
+- gradio@5.0.0-beta.0
+
 ## 4.39.0
 
 ### Dependency updates

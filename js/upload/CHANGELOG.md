@@ -1,5 +1,11 @@
 # @gradio/upload
 
+## 0.12.1-beta.0
+
+### Fixes
+
+- [#8879](https://github.com/gradio-app/gradio/pull/8879) [`67c08bf`](https://github.com/gradio-app/gradio/commit/67c08bfb9e59d801081591b8a59232c32d4467cf) - Fix file uploading in iOS.  Thanks @hannahblair!
+
 ## 0.12.0
 
 ### Features

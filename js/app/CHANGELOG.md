@@ -1,5 +1,29 @@
 # @gradio/app
 
+## 1.39.1-beta.0
+
+### Dependency updates
+
+- @gradio/code@0.8.1-beta.0
+- @gradio/button@0.2.48-beta.0
+- @gradio/upload@0.12.1-beta.0
+- @gradio/annotatedimage@0.6.15-beta.0
+- @gradio/audio@0.13.1-beta.0
+- @gradio/chatbot@0.12.3-beta.0
+- @gradio/dataframe@0.9.1-beta.0
+- @gradio/dataset@0.2.2-beta.0
+- @gradio/file@0.9.1-beta.0
+- @gradio/fileexplorer@0.4.16-beta.0
+- @gradio/gallery@0.11.4-beta.0
+- @gradio/image@0.13.1-beta.0
+- @gradio/imageeditor@0.8.1-beta.0
+- @gradio/model3d@0.11.2-beta.0
+- @gradio/multimodaltextbox@0.5.4-beta.0
+- @gradio/simpleimage@0.6.4-beta.0
+- @gradio/uploadbutton@0.6.16-beta.0
+- @gradio/video@0.10.1-beta.0
+- @gradio/downloadbutton@0.1.25-beta.0
+
 ## 1.39.0
 
 ### Features

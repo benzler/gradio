@@ -1,5 +1,15 @@
 # website
 
+## 0.35.1-beta.0
+
+### Features
+
+- [#8871](https://github.com/gradio-app/gradio/pull/8871) [`7f1a78c`](https://github.com/gradio-app/gradio/commit/7f1a78c49ed69688ef1d39ef731c64ba934df645) - Add confirmation dialogue if leaving playground.  Thanks @aliabd!
+
+### Dependency updates
+
+- @gradio/code@0.8.1-beta.0
+
 ## 0.35.0
 
 ### Features
