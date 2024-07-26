@@ -1,5 +1,11 @@
 # @gradio/file
 
+## 0.9.1
+
+### Dependency updates
+
+- @gradio/upload@0.12.1
+
 ## 0.9.0
 
 ### Features

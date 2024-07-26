@@ -1,5 +1,15 @@
 # @gradio/chatbot
 
+## 0.12.3
+
+### Dependency updates
+
+- @gradio/upload@0.12.1
+- @gradio/audio@0.13.1
+- @gradio/gallery@0.11.4
+- @gradio/image@0.13.1
+- @gradio/video@0.10.1
+
 ## 0.12.2
 
 ### Fixes

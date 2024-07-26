@@ -1,5 +1,11 @@
 # @gradio/simpleimage
 
+## 0.6.4
+
+### Dependency updates
+
+- @gradio/upload@0.12.1
+
 ## 0.6.3
 
 ### Fixes
